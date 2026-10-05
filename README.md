@@ -1,2 +1,10 @@
 # The-Emberly-Times
-A page for SEO that contains information about the news company The Emberly Times.
+We are a news company in Kansas.
+
+
+## Locations
+* Kansas
+
+## Socials
+* [Facebook](https://www.facebook.com/share/1HU1aKsZRC/)
+* [Medium](https://theemberlytimes.com/)
