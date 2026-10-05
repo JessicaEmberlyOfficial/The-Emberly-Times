@@ -10,5 +10,5 @@ We are a news company in Kansas.
 * [Medium](https://theemberlytimes.com/)
 
 ## Contact
-* Phone Number - +1 (913)-
+* Phone Number - +1 (913)-430-2174
 * [Email](mailto://jessicaemberly@theemberlytimes.com)
