@@ -5,6 +5,10 @@ We are a news company based in Kansas.
 ## Locations
 * Kansas
 
+## Writers
+* Jessica Emberly
+* Wendolyn Dallas
+
 ## Websites
 * [The Emberly Times](http://theemberlytimes.com/)
 
